@@ -1,0 +1,21 @@
+﻿  main.cpp
+D:\College\8th Term\Computer Graphics\Final_Project\Final_Project\main.cpp(69,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\College\8th Term\Computer Graphics\Final_Project\Final_Project\main.cpp(369,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\College\8th Term\Computer Graphics\Final_Project\Final_Project\main.cpp(370,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\College\8th Term\Computer Graphics\Final_Project\Final_Project\main.cpp(371,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\College\8th Term\Computer Graphics\Final_Project\Final_Project\main.cpp(372,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\College\8th Term\Computer Graphics\Final_Project\Final_Project\main.cpp(373,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\College\8th Term\Computer Graphics\Final_Project\Final_Project\main.cpp(374,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\College\8th Term\Computer Graphics\Final_Project\Final_Project\main.cpp(378,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\College\8th Term\Computer Graphics\Final_Project\Final_Project\main.cpp(379,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\College\8th Term\Computer Graphics\Final_Project\Final_Project\main.cpp(380,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\College\8th Term\Computer Graphics\Final_Project\Final_Project\main.cpp(381,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\College\8th Term\Computer Graphics\Final_Project\Final_Project\main.cpp(382,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\College\8th Term\Computer Graphics\Final_Project\Final_Project\main.cpp(383,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\College\8th Term\Computer Graphics\Final_Project\Final_Project\main.cpp(614,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\College\8th Term\Computer Graphics\Final_Project\Final_Project\main.cpp(615,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\College\8th Term\Computer Graphics\Final_Project\Final_Project\main.cpp(753,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\College\8th Term\Computer Graphics\Final_Project\Final_Project\main.cpp(768,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\College\8th Term\Computer Graphics\Final_Project\Final_Project\main.cpp(829,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\College\8th Term\Computer Graphics\Final_Project\Final_Project\main.cpp(848,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Final_Project.vcxproj -> D:\College\8th Term\Computer Graphics\Final_Project\Debug\Final_Project.exe
